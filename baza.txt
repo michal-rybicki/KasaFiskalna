@@ -1,0 +1,15 @@
+7
+32 0 2.15
+Ogorek
+33 0 3.6
+Batat
+34 0 1.12
+Ziemniak
+45 1 5
+Awokado
+46 1 7
+Melon
+54 0 3.56
+Banan
+55 1 2.54
+Kiwi
